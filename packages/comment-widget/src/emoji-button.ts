@@ -124,7 +124,7 @@ export class EmojiButton extends LitElement {
 
       .form__emoji-panel {
         position: absolute;
-        top: 2em;
+        bottom: 2em;
         right: 0;
         box-shadow: 0 0.5em 1em rgba(0, 0, 0, 0.1);
         border-radius: 0.875em;
